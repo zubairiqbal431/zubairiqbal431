@@ -1,6 +1,4 @@
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/izubair486) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubair-iqbal-2i/)
 # Hi, I'm Zubair 👋
 
 🎓 BS Electronics Student (2023–2027) at Government College University Lahore.  
@@ -9,6 +7,8 @@
 📚 Currently learning ESP-IDF, FreeRTOS, and MATLAB/Simulink.  
 🎯 Aspiring Embedded Systems Engineer focused on developing intelligent embedded solutions.
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/izubair486) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubair-iqbal-2i/)
 # 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
