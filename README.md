@@ -1,6 +1,13 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/izubair486) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubair-iqbal-2i/)
+## 👨‍💻 About Me
+
+🎓 BS Electronics Student (2023–2027) at Government College University Lahore.  
+💡 Passionate about Embedded Systems, Industrial IoT, and TinyML.  
+🔧 Building projects with ESP32, C/C++, MQTT, and Node-RED.  
+📚 Currently learning ESP-IDF, FreeRTOS, and MATLAB/Simulink.  
+🎯 Aspiring Embedded Systems Engineer focused on developing intelligent embedded solutions.
 
 # 💻 Tech Stack:
 
