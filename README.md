@@ -21,6 +21,18 @@
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 🚀 Featured Projects
+
+- 🌡️ **IoT Temperature Monitoring & Anomaly Detection** – ESP32, MQTT, EWMA, Wokwi
+- 📷 **ESP32-CAM Smart Monitoring System** – ESP32-CAM, MQTT, Node-RED
+- ⚙️ **Motor Failure Prediction** – Machine Learning for Predictive Maintenance
+
+  ## 🌱 Currently Learning
+
+- ESP-IDF
+- FreeRTOS
+- MATLAB/Simulink
+- TinyML
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=zubairiqbal431&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=zubairiqbal431&theme=dark&hide_border=false)<br/>
@@ -29,8 +41,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zubairiqbal431&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/zubair-iqbal-2i/
+- 📧 Feel free to connect for Embedded Systems, IoT, and Electronics discussions.
 ## 🐍 Contribution Snake
 
 <picture>
