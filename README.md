@@ -26,8 +26,8 @@
 - 🌡️ **IoT Temperature Monitoring & Anomaly Detection** – ESP32, MQTT, EWMA, Wokwi
 - 📷 **ESP32-CAM Smart Monitoring System** – ESP32-CAM, MQTT, Node-RED
 - ⚙️ **Motor Failure Prediction** – Machine Learning for Predictive Maintenance
-
-  ## 🌱 Currently Learning
+  
+ ## 🌱 Currently Learning
 
 - ESP-IDF
 - FreeRTOS
